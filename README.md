@@ -47,7 +47,7 @@ I'm passionate about building practical software solutions using Python, Artific
 🤝 Connect With Me
 
 - GitHub: https://github.com/yogesh-84
-- LinkedIn: Add your LinkedIn profile URL here
+- LinkedIn: https://www.linkedin.com/in/yogesh-kamble/
 
 ---
 
